@@ -1,15 +1,16 @@
 # Hi, I'm Sharvandeep 👋
 
-🎓 B.Tech Computer Science Engineering Student at KL University
-📊 CGPA: 9.54 / 10
-🤖 Interested in Human–AI Interaction, Intelligent Automation & AI Systems
-🔧 AI Engineer + Systems Builder
+🎓 **B.Tech Computer Science Engineering Student at KL University**
+📊 **CGPA:** 9.54 / 10
+🤖 Interested in **Human–AI Interaction, Intelligent Automation & AI Systems**
+🔧 **AI Engineer + Systems Builder**
 
 ---
 
 ## 🚀 About Me
 
 I am a Computer Science student passionate about building **intelligent systems that combine AI, software engineering, and real-world problem solving**.
+
 My work focuses on **AI-driven applications, backend systems, and IoT-based solutions**.
 
 I enjoy developing systems that **bridge humans and intelligent technology** through automation and smart decision-making tools.
@@ -26,21 +27,64 @@ I enjoy developing systems that **bridge humans and intelligent technology** thr
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-###🧠 Student Guidance Chatbot (Concept)
+## 📚 AI Research Paper Assistant (RAG System)
+
+AI-powered system that enables users to **upload research papers and interact with them using natural language queries**.
+
+The system uses a **Retrieval-Augmented Generation (RAG) architecture** to retrieve relevant document sections and generate context-aware answers using a locally hosted language model.
+
+### Key Features
+
+* Upload and analyze **research paper PDFs**
+* **Semantic search** over document content
+* **Question answering** grounded in the paper
+* **Automatic paper summarization**
+* **Research insight extraction**
+* Analysis of **key contributions, methodology, limitations, and future work**
+* **Source citation display** for retrieved passages
+
+### System Pipeline
+
+```
+PDF Upload
+↓
+Text Extraction (PyPDFLoader)
+↓
+Document Chunking (RecursiveCharacterTextSplitter)
+↓
+Embedding Generation (Sentence Transformers)
+↓
+Vector Storage (FAISS)
+↓
+Semantic Retrieval
+↓
+LLM Response Generation (Ollama - Phi3/Qwen)
+↓
+Interactive Interface (Streamlit)
+```
+
+### Tech Used
+
+Python • LangChain • Sentence Transformers • FAISS • Ollama • Streamlit • NLP • Vector Search • RAG Architecture
+
+---
+
+## 🧠 Student Guidance Chatbot (Concept)
 
 Agentic AI System Idea
 
 * AI-powered chatbot to assist students with **career guidance and academic decisions**
 * Designed around **Human–AI interaction and intelligent assistants**
 
-**Tech Focus:**
+### Tech Focus
+
 Conversational AI • AI Agents • Decision Support
 
 ---
 
-### 📊 Career Assessment Platform
+## 📊 Career Assessment Platform
 
 Full Stack Backend System (Spring Boot)
 
@@ -48,12 +92,13 @@ Full Stack Backend System (Spring Boot)
 * Implements **Admin and Student roles**
 * Backend built with **Spring Boot REST APIs**
 
-**Tech Used:**
+### Tech Used
+
 Java • Spring Boot • REST APIs • MySQL
 
 ---
 
-### 📜 Certification & Skill Tracking Platform
+## 📜 Certification & Skill Tracking Platform
 
 Student Skill Portfolio System
 
@@ -61,24 +106,26 @@ Student Skill Portfolio System
 * Helps students maintain a **verified skill profile**
 * Useful for **placement preparation and career development**
 
-**Tech Used:**
+### Tech Used
+
 Spring Boot • Web Applications • Databases
 
 ---
 
-### 🌐 EduPortfolio
+## 🌐 EduPortfolio
 
 Personal Academic Portfolio Website
 
 * A responsive portfolio website showcasing projects, skills, and achievements
 * Built using **React frontend**
 
-**Tech Used:**
+### Tech Used
+
 React • JavaScript • Web Development
 
 ---
 
-###🌊 Automated Flood Protection System
+## 🌊 Automated Flood Protection System
 
 IoT + Embedded Systems Project
 
@@ -86,10 +133,13 @@ IoT + Embedded Systems Project
 * Detects rising water levels and automatically raises protective barriers
 * Designed as a **low-cost flood mitigation system for agricultural fields and riverside homes**
 
-**Tech Used:**
+### Tech Used
+
 Arduino • Sensors • Embedded Systems
 
-## 🛠 Tech Stack
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -105,14 +155,14 @@ Git • GitHub • Arduino • VS Code
 
 ### Computer Science Concepts
 
-Data Structures
-Operating Systems
-DBMS
-AI Systems
+* Data Structures
+* Operating Systems
+* DBMS
+* AI Systems
 
 ---
 
-## 📈 Open Source Contributions
+# 📈 Open Source Contributions
 
 * Added bash code fence to Assamese README in **firstcontributions/first-contributions**
 * Fixed incorrect link in **web-platform-tests/wpt**
@@ -120,7 +170,7 @@ AI Systems
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * AI System Design
 * Agentic AI Workflows
@@ -129,16 +179,16 @@ AI Systems
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 To become a **systems engineer and AI developer** building technologies that improve **human productivity, decision-making, and real-world infrastructure**.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 📧 Email: [2400032427@kluniversity.in](mailto:2400032427@kluniversity.in)
 
 ---
 
-⭐ Always open to collaboration on AI, systems engineering, and innovative tech projects.
+⭐ Always open to collaboration on **AI, systems engineering, and innovative technology projects**.
