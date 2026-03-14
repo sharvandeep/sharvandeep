@@ -187,7 +187,7 @@ To become a **systems engineer and AI developer** building technologies that imp
 
 # 📫 Contact
 
-📧 Email: [2400032427@kluniversity.in](mailto:2400032427@kluniversity.in)
+📧 Email: [sharvandeepk@gmail.com](mailto:sharvandeepk@gmail.com)
 
 ---
 
