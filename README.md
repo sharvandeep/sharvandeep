@@ -187,8 +187,7 @@ To become a **systems engineer and AI developer** building technologies that imp
 
 # 📫 Contact
 
-📧 Email: [sharvandeepk@gmail.com](mailto:sharvandeepk@gmail.com
-📞 Phone: +91 81794 61298 
+📧 Email: [sharvandeepk@gmail.com](mailto:sharvandeepk@gmail.com)
 
 ---
 
